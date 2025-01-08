@@ -28,8 +28,10 @@ body{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.nav-items:focus,
+
 .nav-items:hover{
     color: #404BBF;
 }
-
+.nav-items:focus{
+    color: #404BBF;
+}
