@@ -83,10 +83,21 @@ body{
 }
 
 .button_first_section{
+    font-family: "Roboto", sans-serif;
     background-color: #4D5AE5;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: white;
+}
+
+
+.button_first_section:hover{
+    color:#404BBF;
+}
+
+
+.button_first_section:focus{
+    color:#404BBF;
 }
