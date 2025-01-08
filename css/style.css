@@ -58,6 +58,10 @@ body{
     color: #404BBF;
 }
 
-.tel:hover{
+.mail:focus{
+    color: #404BBF;
+}
+
+.tel:focus{
     color: #404BBF;
 }
