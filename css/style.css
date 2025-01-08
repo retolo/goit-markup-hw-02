@@ -95,10 +95,10 @@ body{
 
 
 .button_first_section:hover{
-    color:#404BBF;
+    background-color:#404BBF;
 }
 
 
 .button_first_section:focus{
-    color:#404BBF;
+    background-color:#404BBF;
 }
