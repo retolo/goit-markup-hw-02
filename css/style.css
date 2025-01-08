@@ -28,22 +28,8 @@ body{
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.nav-contact {
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-    text-decoration: none;
-}
 
-.nav-contact:hover {
-    color: #404bbf; /* Цвет при наведении */
-}
 
-.nav-contact:focus {
-    color: #404bbf; /* Цвет при фокусе */
-}
 .nav-items:hover{
     color: #404BBF;
 }
@@ -81,4 +67,26 @@ body{
 }
 .tel:focus{
     color: #404BBF;
+}
+
+.info{
+    background-color:#2E2F42;
+}
+
+.header_first_section{
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: white;
+}
+
+.button_first_section{
+    background-color: #4D5AE5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: white;
 }
