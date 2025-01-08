@@ -35,3 +35,29 @@ body{
 .nav-items:focus{
     color: #404BBF;
 }
+.adres{
+    font-style: normal;
+}
+.mail{
+/*    font-family: "Roboto", sans-serif; */
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.tel{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+}
+.mail:hover{
+    color: #404BBF;
+}
+
+.tel:hover{
+    color: #404BBF;
+}
