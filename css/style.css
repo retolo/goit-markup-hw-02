@@ -123,8 +123,8 @@ body{
 
 }
 
-.list_third_section, .item_list{
-    background-color: #ffffff;
+ul.list_third_section li.item_list {
+    background-color: #FFFFFF;
 }
 
 
