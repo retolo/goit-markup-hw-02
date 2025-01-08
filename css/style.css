@@ -124,7 +124,7 @@ body{
 }
 
 .list_third_section{
-    background-color: white;
+    background-color: #ffffff;
 }
 
 
@@ -154,6 +154,7 @@ body{
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
+    text-transform: capitalize;
 }
 
 .header_app{
